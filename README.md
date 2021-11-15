@@ -1,4 +1,5 @@
 - [Zettelkasten](https://dnnsmnstrr.github.io/zettelkasten) My personal notes #notes#zettelkasten#knowledge-base#pages
+- [Zettelkasten](https://dnnsmnstrr.github.io/zettelkasten) My personal notes #notes#zettelkasten#knowledge-base#pages
 - [Homepage - Dennis Muensterer](https://dnnsmnstrr.github.io/) My Personal Homepage #homepage#landing-page#pages
 - [YouTube](https://www.youtube.com/) #video#entertainment#education
 - [Twitter](https://twitter.com) #twitter#social#hashtag#tweet
